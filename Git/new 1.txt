@@ -1,0 +1,4 @@
+Проверка настроек:
+<code>$ git config --list</code>
+<code>$ git config --global user.name "John Doe"</code></br>
+<code>$ git config --global user.email johndoe@example.com</code></br>
