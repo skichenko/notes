@@ -1,1 +1,1 @@
-<link title="Ruby on Rails חא 4 לוסÿצא" href="http://rubyclub.blogspot.com/?m=1">
+<link title="Ruby on Rails חא 4 לוס‗צא" href="http://rubyclub.blogspot.com/?m=1">
