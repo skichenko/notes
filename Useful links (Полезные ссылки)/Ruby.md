@@ -1,0 +1,1 @@
+<link rel="Ruby on Rails за 4 мес€ца" href="http://rubyclub.blogspot.com/?m=1">
