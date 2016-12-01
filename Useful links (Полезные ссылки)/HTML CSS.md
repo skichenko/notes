@@ -1,1 +1,1 @@
-<link rel="htmlbook.ru" href="http://htmlbook.ru">
+<link title="htmlbook.ru" href="http://htmlbook.ru">
